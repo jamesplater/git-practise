@@ -1,4 +1,4 @@
-# Title from branch B
+Title from branches A and B
 
 
 
