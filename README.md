@@ -6,7 +6,3 @@ First change
 
 Second lesson- change
 
-
-
-Practise Line
-
